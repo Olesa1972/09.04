@@ -1,0 +1,7 @@
+{
+    "name": "pi501/localhost",
+    "type": "project",
+    "require": {
+        "klein/klein": "^2.1"
+    }
+}
